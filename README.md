@@ -8,7 +8,7 @@
     <li><a href="#-笔记结构">🧱 笔记结构</a></li>
     <li><a href="#-搭建-LearnData">🍥 搭建 LearnData</a></li>
     <li><a href="#-配置-LearnData">🔣 配置 LearnData</a></li>
-    <li><a href="#️-网站部署">🖥️ 网站部署</a></li>
+    <li><a href="#️-网站部署1">🖥️ 网站部署</a></li>
     <li><a href="#-常见问题">🤔 常见问题</a></li>
     <li><a href="#-版本升级">🆙 版本升级</a></li>
   </ul>
